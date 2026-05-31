@@ -1,0 +1,190 @@
+[
+  {
+    "id": "humano",
+    "nome": "Humano",
+    "descricao": "Versateis, ambiciosos e adaptaveis em qualquer ambiente.",
+    "vantagens": [
+      "+1 em todos os atributos",
+      "Versatilidade para qualquer classe"
+    ],
+    "desvantagens": [
+      "Nao possui visao no escuro",
+      "Menos habilidades especiais que outras racas"
+    ],
+    "lore": "Humanos constroem reinos, exploram ruinas e se destacam pela capacidade de aprender rapido.",
+    "dicas": [
+      "Humanos costumam funcionar bem para qualquer classe.",
+      "Excelente opcao para iniciantes."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "for": 1, "des": 1, "con": 1, "int": 1, "sab": 1, "car": 1 }
+  },
+  {
+    "id": "anao",
+    "nome": "Anao",
+    "descricao": "Resistentes e obstinados, mestres de pedra e metal.",
+    "vantagens": [
+      "+2 Constituicao",
+      "Visao no escuro",
+      "Resistencia a veneno"
+    ],
+    "desvantagens": [
+      "Deslocamento mais lento",
+      "Menor foco em mobilidade"
+    ],
+    "lore": "A maioria dos anoes vive em fortalezas de montanha e valoriza honra, tradicao e oficio.",
+    "dicas": [
+      "Otimos para classes de linha de frente.",
+      "Constituicao alta aumenta sobrevivencia."
+    ],
+    "deslocamento": 25,
+    "racialBonuses": { "con": 2 }
+  },
+  {
+    "id": "elfo",
+    "nome": "Elfo",
+    "descricao": "Graciosos, longevos e ligados a magia e natureza.",
+    "vantagens": [
+      "+2 Destreza",
+      "Visao no escuro",
+      "Vantagem contra encantamento"
+    ],
+    "desvantagens": [
+      "Mais fragil em combate direto",
+      "Dependencia de posicionamento"
+    ],
+    "lore": "Elfos enxergam o mundo com calma secular e se destacam em arte, magia e exploracao.",
+    "dicas": [
+      "Elfos sao excelentes para personagens focados em Destreza.",
+      "Combinam muito com classes de ataque preciso."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "des": 2 }
+  },
+  {
+    "id": "halfling",
+    "nome": "Halfling",
+    "descricao": "Pequenos, sortudos e surpreendentemente corajosos.",
+    "vantagens": [
+      "+2 Destreza",
+      "Sortudo: rerrola 1 em d20",
+      "Corajoso contra medo"
+    ],
+    "desvantagens": [
+      "Deslocamento menor",
+      "Alcance limitado com armas pesadas"
+    ],
+    "lore": "Halflings preferem conforto, boa comida e companheirismo, mas podem virar herois improvaveis.",
+    "dicas": [
+      "Excelente escolha para Ladinos.",
+      "A sorte reduz erros criticos."
+    ],
+    "deslocamento": 25,
+    "racialBonuses": { "des": 2 }
+  },
+  {
+    "id": "draconato",
+    "nome": "Draconato",
+    "descricao": "Orgulhosos e imponentes, herdeiros de sangue draconico.",
+    "vantagens": [
+      "+2 Forca e +1 Carisma",
+      "Arma de sopro elemental",
+      "Resistencia ao tipo do sopro"
+    ],
+    "desvantagens": [
+      "Poucas pericias naturais",
+      "Arma de sopro tem recarga limitada"
+    ],
+    "lore": "Draconatos prezam honra pessoal e legado. Sua presenca costuma ser memoravel.",
+    "dicas": [
+      "Muito fortes para combatentes corpo a corpo.",
+      "Carisma ajuda em classes com presenca social."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "for": 2, "car": 1 }
+  },
+  {
+    "id": "gnomo",
+    "nome": "Gnomo",
+    "descricao": "Inventivos, curiosos e naturalmente resistentes a magia.",
+    "vantagens": [
+      "+2 Inteligencia",
+      "Visao no escuro",
+      "Vantagem em testes mentais contra magia"
+    ],
+    "desvantagens": [
+      "Deslocamento menor",
+      "Menor foco em combate bruto"
+    ],
+    "lore": "Gnomos veem o mundo como um laboratorio de ideias e descobertas.",
+    "dicas": [
+      "Otimos para Magos e classes intelectuais.",
+      "Defesa mental e muito valiosa."
+    ],
+    "deslocamento": 25,
+    "racialBonuses": { "int": 2 }
+  },
+  {
+    "id": "meio-elfo",
+    "nome": "Meio-Elfo",
+    "descricao": "Carismaticos e adaptaveis, equilibram dois mundos.",
+    "vantagens": [
+      "+2 Carisma e +1 em dois atributos",
+      "Visao no escuro",
+      "Versatilidade social"
+    ],
+    "desvantagens": [
+      "Menos identidade cultural fixa",
+      "Bons em tudo, especialistas em menos nichos"
+    ],
+    "lore": "Meio-elfos transitam entre culturas, aprendendo rapidamente a negociar e sobreviver.",
+    "dicas": [
+      "Excelente para classes de Carisma.",
+      "Uma das racas mais flexiveis do jogo."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "car": 2, "des": 1, "con": 1 }
+  },
+  {
+    "id": "meio-orc",
+    "nome": "Meio-Orc",
+    "descricao": "Intensos e resistentes, com energia brutal em combate.",
+    "vantagens": [
+      "+2 Forca e +1 Constituicao",
+      "Resistencia implacavel",
+      "Criticos mais fortes"
+    ],
+    "desvantagens": [
+      "Menor foco em interacoes sociais sutis",
+      "Abordagem mais direta"
+    ],
+    "lore": "Meio-orcs carregam forca e determinacao, muitas vezes superando preconceitos com feitos heroicos.",
+    "dicas": [
+      "Perfeito para Barbaros e Guerreiros.",
+      "Alta resistencia ajuda iniciantes."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "for": 2, "con": 1 }
+  },
+  {
+    "id": "tiefling",
+    "nome": "Tiefling",
+    "descricao": "Marcados por linhagens infernais, dominam presenca e magia.",
+    "vantagens": [
+      "+2 Carisma e +1 Inteligencia",
+      "Visao no escuro",
+      "Resistencia a fogo"
+    ],
+    "desvantagens": [
+      "Pode sofrer preconceito em cenarios narrativos",
+      "Menor robustez fisica"
+    ],
+    "lore": "Tieflings carregam herancas misteriosas e costumam trilhar caminhos de autodescoberta.",
+    "dicas": [
+      "Muito bom para Bruxo e Feiticeiro.",
+      "Carisma alto melhora magia e interacao social."
+    ],
+    "deslocamento": 30,
+    "racialBonuses": { "car": 2, "int": 1 }
+  }
+]

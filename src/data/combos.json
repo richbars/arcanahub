@@ -1,0 +1,10 @@
+[
+  {"raceId":"humano","classId":"guerreiro","nota":9,"motivo":"Excelente combinacao para iniciantes, com curva de aprendizado suave e grande consistencia."},
+  {"raceId":"elfo","classId":"patrulheiro","nota":10,"motivo":"Sinergia natural com Destreza, visao no escuro e exploracao."},
+  {"raceId":"anao","classId":"clerigo","nota":9,"motivo":"Alta resistencia combinada com suporte divino robusto."},
+  {"raceId":"meio-orc","classId":"barbaro","nota":10,"motivo":"Forca e resistencia maximizam o estilo de combate agressivo."},
+  {"raceId":"tiefling","classId":"bruxo","nota":9,"motivo":"Carisma alto e resistencia a fogo reforcam o kit da classe."},
+  {"raceId":"gnomo","classId":"mago","nota":9,"motivo":"Inteligencia elevada e defesa mental beneficiam conjuradores arcanos."},
+  {"raceId":"halfling","classId":"ladino","nota":10,"motivo":"Destreza alta e habilidade de sorte elevam sobrevivencia e precisao."},
+  {"raceId":"draconato","classId":"paladino","nota":8,"motivo":"Forca e Carisma alinham com dano e presenca social do paladino."}
+]

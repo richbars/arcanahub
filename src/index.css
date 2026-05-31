@@ -1,0 +1,88 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: 45 28% 95%;
+  --foreground: 26 24% 16%;
+  --card: 45 40% 98%;
+  --card-foreground: 26 24% 16%;
+  --popover: 45 40% 98%;
+  --popover-foreground: 26 24% 16%;
+  --primary: 23 61% 33%;
+  --primary-foreground: 42 57% 92%;
+  --secondary: 38 32% 88%;
+  --secondary-foreground: 26 24% 16%;
+  --muted: 40 26% 90%;
+  --muted-foreground: 24 16% 36%;
+  --accent: 33 58% 40%;
+  --accent-foreground: 44 65% 96%;
+  --destructive: 5 73% 43%;
+  --destructive-foreground: 47 80% 95%;
+  --border: 31 24% 70%;
+  --input: 31 24% 70%;
+  --ring: 23 61% 33%;
+  --radius: 0.5rem;
+}
+
+.dark {
+  --background: 26 24% 11%;
+  --foreground: 43 39% 86%;
+  --card: 24 20% 13%;
+  --card-foreground: 43 39% 86%;
+  --popover: 24 20% 13%;
+  --popover-foreground: 43 39% 86%;
+  --primary: 33 73% 58%;
+  --primary-foreground: 25 20% 11%;
+  --secondary: 23 17% 19%;
+  --secondary-foreground: 43 39% 86%;
+  --muted: 23 14% 17%;
+  --muted-foreground: 36 17% 69%;
+  --accent: 39 54% 48%;
+  --accent-foreground: 25 20% 11%;
+  --destructive: 4 69% 54%;
+  --destructive-foreground: 46 35% 92%;
+  --border: 24 17% 26%;
+  --input: 24 17% 26%;
+  --ring: 33 73% 58%;
+}
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+}
+
+* {
+  @apply border-border;
+}
+
+body {
+  @apply min-h-screen bg-background text-foreground antialiased;
+  font-family: 'Merriweather', 'Palatino Linotype', 'Book Antiqua', serif;
+  background-image:
+    radial-gradient(circle at 8% 0%, rgba(190, 145, 88, 0.12), transparent 38%),
+    radial-gradient(circle at 92% 12%, rgba(150, 110, 62, 0.08), transparent 42%),
+    linear-gradient(180deg, rgba(63, 43, 26, 0.14) 0%, transparent 24%),
+    repeating-linear-gradient(0deg, rgba(120, 86, 45, 0.03) 0 2px, transparent 2px 6px);
+}
+
+#root {
+  min-height: 100vh;
+}

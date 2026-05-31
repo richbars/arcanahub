@@ -1,0 +1,15 @@
+[
+  {"id":"acolito","nome":"Acolito","pericias":["Intuicao","Religiao"],"idiomas":["Escolha 2 idiomas"],"ferramentas":[],"descricao":"Voce serviu em um templo e conhece rituais, dogmas e hierarquias religiosas."},
+  {"id":"charlatao","nome":"Charlatao","pericias":["Enganacao","Prestidigitacao"],"idiomas":[],"ferramentas":["Kit de disfarce","Kit de falsificacao"],"descricao":"Mestre da trapaça e da identidade falsa, vive de golpes e improviso."},
+  {"id":"criminoso","nome":"Criminoso","pericias":["Enganacao","Furtividade"],"idiomas":[],"ferramentas":["Ferramentas de ladrao","Jogo de azar"],"descricao":"Voce conhece o submundo, seus contatos e suas rotas clandestinas."},
+  {"id":"artista","nome":"Artista","pericias":["Acrobacia","Atuacao"],"idiomas":[],"ferramentas":["Instrumento musical","Kit de disfarce"],"descricao":"Sua vida foi palco, tavernas e aplausos. Sabe entreter e chamar atencao."},
+  {"id":"heroi-do-povo","nome":"Heroi do Povo","pericias":["Lidar com Animais","Sobrevivencia"],"idiomas":[],"ferramentas":["Ferramentas de artesao","Veiculos terrestres"],"descricao":"Um acontecimento o tornou simbolo de esperanca para pessoas comuns."},
+  {"id":"artesao-guilda","nome":"Artesao de Guilda","pericias":["Intuicao","Persuasao"],"idiomas":["Um idioma"],"ferramentas":["Ferramentas de artesao"],"descricao":"Integrante de uma guilda profissional, voce domina um oficio valorizado."},
+  {"id":"eremita","nome":"Eremita","pericias":["Medicina","Religiao"],"idiomas":["Um idioma"],"ferramentas":["Kit de herbalismo"],"descricao":"Afastado da sociedade, voce encontrou respostas em isolamento e contemplacao."},
+  {"id":"nobre","nome":"Nobre","pericias":["Historia","Persuasao"],"idiomas":["Um idioma"],"ferramentas":["Jogo de azar"],"descricao":"Criado na elite, possui etiqueta, conexoes e senso de influencia social."},
+  {"id":"forasteiro","nome":"Forasteiro","pericias":["Atletismo","Sobrevivencia"],"idiomas":["Um idioma"],"ferramentas":["Instrumento musical"],"descricao":"Acostumado a viver nas fronteiras selvagens, sabe rastrear e se orientar."},
+  {"id":"sabio","nome":"Sabio","pericias":["Arcanismo","Historia"],"idiomas":["Escolha 2 idiomas"],"ferramentas":[],"descricao":"Pesquisador dedicado, viveu cercado por tomos, teorias e descoberta."},
+  {"id":"marinheiro","nome":"Marinheiro","pericias":["Atletismo","Percepcao"],"idiomas":[],"ferramentas":["Ferramentas de navegacao","Veiculos aquaticos"],"descricao":"A vida no mar o ensinou disciplina, coragem e resiliencia em tempestades."},
+  {"id":"soldado","nome":"Soldado","pericias":["Atletismo","Intimidacao"],"idiomas":[],"ferramentas":["Jogo de azar","Veiculos terrestres"],"descricao":"Treinado para guerra, compreende hierarquia, taticas e camaradagem militar."},
+  {"id":"orfao","nome":"Orfao","pericias":["Prestidigitacao","Furtividade"],"idiomas":[],"ferramentas":["Kit de disfarce","Ferramentas de ladrao"],"descricao":"Sobreviveu nas ruas com astucia, contatos urbanos e reflexos rapidos."}
+]

@@ -1,0 +1,20 @@
+[
+  {"id":"acrobacia","nome":"Acrobacia","ability":"des","descricao":"Equilibrio, acrobacias e movimentos complexos sob pressao."},
+  {"id":"arcanismo","nome":"Arcanismo","ability":"int","descricao":"Conhecimento sobre magia, planos, runas e tradicoes arcanas."},
+  {"id":"atletismo","nome":"Atletismo","ability":"for","descricao":"Usado para escalar, saltar, nadar e feitos de forca fisica."},
+  {"id":"atuacao","nome":"Atuacao","ability":"car","descricao":"Interpretar, cantar, dançar e impressionar uma audiencia."},
+  {"id":"enganacao","nome":"Enganacao","ability":"car","descricao":"Mentir, blefar ou manipular informacoes para convencer outros."},
+  {"id":"furtividade","nome":"Furtividade","ability":"des","descricao":"Mover-se sem ser percebido e se esconder com eficacia."},
+  {"id":"historia","nome":"Historia","ability":"int","descricao":"Recordar eventos, civilizacoes e conhecimentos historicos."},
+  {"id":"intimidacao","nome":"Intimidacao","ability":"car","descricao":"Impor medo, presenca e autoridade para obter cooperacao."},
+  {"id":"intuicao","nome":"Intuicao","ability":"sab","descricao":"Usado para perceber intencoes ocultas e mentiras sutis."},
+  {"id":"investigacao","nome":"Investigacao","ability":"int","descricao":"Analisar pistas, deduzir padroes e reconstruir acontecimentos."},
+  {"id":"lidar-com-animais","nome":"Lidar com Animais","ability":"sab","descricao":"Acalmar, conduzir ou entender comportamento animal."},
+  {"id":"medicina","nome":"Medicina","ability":"sab","descricao":"Primeiros socorros, diagnosticos e estabilizacao de feridos."},
+  {"id":"natureza","nome":"Natureza","ability":"int","descricao":"Conhecimento de plantas, bestas, clima e ambiente natural."},
+  {"id":"percepcao","nome":"Percepcao","ability":"sab","descricao":"Notar detalhes, sons, movimentos e perigos ao redor."},
+  {"id":"persuasao","nome":"Persuasao","ability":"car","descricao":"Convencer com argumentos, diplomacia e carisma."},
+  {"id":"prestidigitacao","nome":"Prestidigitacao","ability":"des","descricao":"Movimentos precisos das maos para truques e furtos discretos."},
+  {"id":"religiao","nome":"Religiao","ability":"int","descricao":"Conhecimento de deuses, ritos, simbolos e dogmas."},
+  {"id":"sobrevivencia","nome":"Sobrevivencia","ability":"sab","descricao":"Rastrear, encontrar comida e navegar em ambientes hostis."}
+]

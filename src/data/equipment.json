@@ -1,0 +1,15 @@
+[
+  {"id":"espada-longa","nome":"Espada Longa","tipo":"Arma","dano":"1d8 cortante","alcance":"Corpo a corpo","propriedades":["Versatil (1d10)"],"peso":3},
+  {"id":"machado-grande","nome":"Machado Grande","tipo":"Arma","dano":"1d12 cortante","alcance":"Corpo a corpo","propriedades":["Pesada","Duas maos"],"peso":7},
+  {"id":"rapieira","nome":"Rapieira","tipo":"Arma","dano":"1d8 perfurante","alcance":"Corpo a corpo","propriedades":["Acuidade"],"peso":2},
+  {"id":"arco-longo","nome":"Arco Longo","tipo":"Arma","dano":"1d8 perfurante","alcance":"45/180 m","propriedades":["Pesada","Duas maos","Municao"],"peso":2},
+  {"id":"besta-leve","nome":"Besta Leve","tipo":"Arma","dano":"1d8 perfurante","alcance":"24/96 m","propriedades":["Municao","Carga","Duas maos"],"peso":5},
+  {"id":"adaga","nome":"Adaga","tipo":"Arma","dano":"1d4 perfurante","alcance":"Corpo a corpo ou 6/18 m","propriedades":["Acuidade","Leve","Arremesso"],"peso":1},
+  {"id":"escudo","nome":"Escudo","tipo":"Escudo","propriedades":["+2 CA"],"peso":6,"armorClass":2},
+  {"id":"armadura-couro","nome":"Armadura de Couro","tipo":"Armadura","propriedades":["Leve"],"peso":10,"armorClass":11},
+  {"id":"cota-malha","nome":"Cota de Malha","tipo":"Armadura","propriedades":["Pesada","Desvantagem em Furtividade"],"peso":55,"armorClass":16,"dexCap":0},
+  {"id":"armadura-escamas","nome":"Armadura de Escamas","tipo":"Armadura","propriedades":["Media","Desvantagem em Furtividade"],"peso":45,"armorClass":14,"dexCap":2},
+  {"id":"cajado","nome":"Cajado","tipo":"Arma","dano":"1d6 contundente","alcance":"Corpo a corpo","propriedades":["Versatil (1d8)"],"peso":4},
+  {"id":"simbolo-sagrado","nome":"Simbolo Sagrado","tipo":"Item","propriedades":["Foco de conjuracao divina"],"peso":1},
+  {"id":"foco-druidico","nome":"Foco Druidico","tipo":"Item","propriedades":["Foco de conjuracao druidica"],"peso":1}
+]

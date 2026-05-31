@@ -1,0 +1,8 @@
+[
+  {"id":"atirador-preciso","nome":"Atirador Preciso","requisitos":[],"beneficios":["Ignora meia cobertura e tres-quartos de cobertura","Pode aceitar -5 na jogada de ataque para +10 no dano"],"combos":["Patrulheiro + Arco Longo","Guerreiro arqueiro"]},
+  {"id":"mestre-armas-pesadas","nome":"Mestre de Armas Pesadas","requisitos":[],"beneficios":["Ataque adicional apos critico ou abate","Opcao de -5 ataque para +10 dano com arma pesada"],"combos":["Barbaro + Machado Grande","Guerreiro Campeao"]},
+  {"id":"conjurador-guerra","nome":"Conjurador de Guerra","requisitos":["Conjurar magias"],"beneficios":["Vantagem em testes de concentracao","Pode conjurar magia como ataque de oportunidade"],"combos":["Clerigo de frente","Paladino conjurador"]},
+  {"id":"resiliente","nome":"Resiliente","requisitos":[],"beneficios":["+1 em atributo","Profiencia em testes de resistencia do atributo escolhido"],"combos":["Constituicao para conjuradores","Sabedoria para classes marciais"]},
+  {"id":"alerta","nome":"Alerta","requisitos":[],"beneficios":["+5 iniciativa","Nao pode ser surpreendido enquanto consciente"],"combos":["Ladino","Mago controlador"]},
+  {"id":"sortudo","nome":"Sortudo","requisitos":[],"beneficios":["3 pontos de sorte por descanso longo para rerrolar d20"],"combos":["Qualquer build critica","Personagens iniciantes"]}
+]
