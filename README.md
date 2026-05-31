@@ -9,7 +9,7 @@ Aplicacao web completa para criacao de personagens de Dungeons & Dragons 5a Edic
 - Zustand para estado global
 - React Hook Form + Zod para validacao
 - Framer Motion + Lucide Icons
-- IndexedDB para salvar personagens localmente
+- IndexedDBx para salvar personagens localmente
 - PWA via vite-plugin-pwa
 
 ## Funcionalidades principais
